@@ -2,7 +2,7 @@
 -- function (...)
 --   local chunk = 1 + 2
 --   print("The chunk says 1 + 2 is: " .. chunk)
--- return chunk
+--   return chunk
 -- end
 
 local chunk = 1 + 2
