@@ -24,10 +24,11 @@ print(type(Ee))
 Ff = print()
 print(type(Ff))
 
+-- this is a function when you run this it may returm result as a string.
 Gg = type(type)
 print(type(Gg))
 
--- table 
+-- table
 Zz = type({})
 print(type(Zz))
 
